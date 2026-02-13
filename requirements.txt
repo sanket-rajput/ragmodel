@@ -1,0 +1,7 @@
+faiss-cpu
+fastapi
+uvicorn
+fastembed
+numpy
+python-dotenv
+requests
